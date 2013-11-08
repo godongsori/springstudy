@@ -21,5 +21,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/spring30-lib/lib/mockito-all-1.8.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
