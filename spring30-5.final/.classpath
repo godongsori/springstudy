@@ -22,5 +22,15 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="/spring30-lib/lib/mockito-all-1.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace-sts/SpringMVC/WebContent/WEB-INF/lib/org.springframework.aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="aopalliance"/>
+			<attribute name="maven.artifactId" value="aopalliance"/>
+			<attribute name="maven.version" value="1.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
